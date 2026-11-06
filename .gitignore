@@ -1,0 +1,11 @@
+# Packaged extension artifacts.
+*.zip
+*.crx
+
+# Local logs and operating-system metadata.
+*.log
+logs/
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
